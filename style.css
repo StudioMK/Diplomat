@@ -1,0 +1,32 @@
+/* リセットCSS */
+body, h1, h2, h3, p, ol, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 100%;
+    padding: 20px;
+  }
+  
+  .container img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+  }
+  
+  h3 {
+    margin-top: 20px;
+  }
+  
+  ol {
+    margin-left: 20px;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  /* 以下略 */
+  
