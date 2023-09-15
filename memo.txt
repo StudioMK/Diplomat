@@ -1,0 +1,1 @@
+git remote set-url origin https://StudioMK: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@github.com/StudioMK/Diplomat
